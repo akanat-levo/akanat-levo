@@ -131,7 +131,11 @@ Here's what owning problems end-to-end looks like:
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akanat-levo/akanat-levo/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akanat-levo/akanat-levo/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akanat-levo/akanat-levo/output/snake-light.svg"/>
+    <img src="https://raw.githubusercontent.com/akanat-levo/akanat-levo/output/snake-light.svg" alt="snake"/>
+  </picture>
 </p>
 
 ---
